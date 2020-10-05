@@ -33,6 +33,16 @@ On linux you may need to add udev rule
 
 https://github.com/emard/ulx3s/blob/master/doc/MANUAL.md#programming-over-usb-port-us1
 
-## Next step
+## Build your own blink LED
 
-Build your own blink LED [QuickStart](https://github.com/ulx3s/quick-start).
+This blinky is based on the [ULX3S-Blinky project](https://github.com/DoctorWkt/ULX3S-Blinky) from @Doctorwkt. This example blinks an LED using FPGA code.
+
+It is assumed the yosys, nextpnr toolchain has been already installed. If not, see [instructions here](https://github.com/emard/ulx3s/blob/master/doc/MANUAL.md#precompiled-opensource-tools-for-all-platforms)
+
+Default size in Makefile is 85F - you can change it here before building
+
+```
+make clean
+make ulx3s.bit
+make prog
+```
