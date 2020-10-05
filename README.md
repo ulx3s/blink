@@ -46,3 +46,26 @@ make clean
 make ulx3s.bit
 make prog
 ```
+
+# Next steps
+
+Now, you're ready for the next steps, we suggest following:
+
+  - https://github.com/emard/ulx3s/blob/master/doc/MANUAL.md
+  - https://github.com/emard/ulx3s-misc
+  - https://github.com/ulx3s/fpga-odysseus
+  - https://github.com/emard/ulx3s-examples
+  - https://github.com/emard/ulx3s-bin
+  - https://github.com/kost/ulx3s-ghdl-examples/
+
+Or explore different projects available at: https://ulx3s.github.io/
+
+# Chat and support
+
+Discord chanel
+
+  - https://discord.gg/qwMUk6W (problems/question/general chat)
+
+Gitter chanel
+
+  - https://gitter.im/ulx3s/Lobby (Focused on development)
