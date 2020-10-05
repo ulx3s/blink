@@ -28,4 +28,4 @@ https://github.com/emard/ulx3s/blob/master/doc/MANUAL.md#programming-over-usb-po
 
 ## Next step
 
-Build your own blink LED [QiickStart](https://github.com/ulx3s/quick-start).
+Build your own blink LED [QuickStart](https://github.com/ulx3s/quick-start).
