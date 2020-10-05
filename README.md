@@ -1,9 +1,5 @@
 # Blink ULX3S LED
 
-## ULX3S
-
-<img src="https://radiona.org/ulx3s/assets/img/legend.png" width="500">
-
 ## Connecting ULX3S
 
 You need to connect to USB1 (US1) connector to the host computer in order to program the board.
