@@ -10,11 +10,22 @@ You need to connect to USB1 (US1) connector to the host computer in order to pro
 
 Download fujprog for your OS [latest version of fujprog](https://github.com/kost/fujprog/releases).
 
+Extract fujprog to "any-folder" on your drive
+
+```
+MacOS: export PATH=[path-to-fujprog]:$PATH
+Linux: export PATH=[path-to-fujprog]:$PATH
+Windows Powershell: $ENV:PATH = "[path-to-fujprog];" + $ENV:PATH
+Windows cmd.exe: PATH=[path-to-fujprog];%PATH%
+```
+
 ## Uploading
 
 Upload blik led for your board version
 
 ```
+git clone https://github.com/ulx3s/blink.git
+cd blink
 fujprog blink_85f.bit
 ```
 
