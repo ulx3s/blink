@@ -2,13 +2,13 @@
 
 ## ULX3S
 
-<img src="https://radiona.org/ulx3s/assets/img/legend.png" width="600">
+<img src="https://radiona.org/ulx3s/assets/img/legend.png" width="500">
 
 ## Connecting ULX3S
 
 You need to connect to USB1 (US1) connector to the host computer in order to program the board.
 
-<img src="https://raw.githubusercontent.com/ulx3s/quick-start/master/images/ulx3s-usb1.jpg?raw=true" width="500">
+<img src="https://raw.githubusercontent.com/ulx3s/quick-start/master/images/ulx3s-usb1.jpg?raw=true" width="400">
 
 ## Download programmer
 
