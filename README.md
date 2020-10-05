@@ -19,6 +19,14 @@ Windows Powershell: $ENV:PATH = "[path-to-fujprog];" + $ENV:PATH
 Windows cmd.exe: PATH=[path-to-fujprog];%PATH%
 ```
 
+You may want to rename fujprog name, for example on linux just rename fujprog-v46-linux-x64 to fujprog
+
+
+```
+cd path-to-fujprog
+mv fujprog-v46-linux-x64 fujprog
+```
+
 ## Uploading
 
 Upload blik led for your board version
