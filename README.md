@@ -29,7 +29,7 @@ mv fujprog-v46-linux-x64 fujprog
 
 ## Uploading
 
-Upload blik led for your board version
+Upload blink led for your board version
 
 ```
 git clone https://github.com/ulx3s/blink.git
