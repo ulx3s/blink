@@ -18,9 +18,11 @@ Linux: export PATH=[path-to-fujprog]:$PATH
 Windows Powershell: $ENV:PATH = "[path-to-fujprog];" + $ENV:PATH
 Windows cmd.exe: PATH=[path-to-fujprog];%PATH%
 ```
+## Windows sugestion
+
+On windows maybe best solution would be to install WSL 2 first, installing Ubuntu/Debian, and then following your instructions for Linux setup
 
 You may want to rename fujprog name, for example on linux just rename fujprog-v46-linux-x64 to fujprog
-
 
 ```
 cd path-to-fujprog
