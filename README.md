@@ -47,6 +47,12 @@ This blinky is based on the [ULX3S-Blinky project](https://github.com/DoctorWkt/
 
 It is assumed the yosys, nextpnr toolchain has been already installed. If not, see [instructions here](https://github.com/emard/ulx3s/blob/master/doc/MANUAL.md#precompiled-opensource-tools-for-all-platforms)
 
+First you will need to install verilator
+
+```
+sudo apt-get install verilator
+```
+
 Default size in Makefile is 85F - you can change it here:
 
 https://github.com/ulx3s/blink/blob/main/Makefile#L69
